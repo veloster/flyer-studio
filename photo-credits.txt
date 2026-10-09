@@ -1,0 +1,59 @@
+Flyer Studio – photo credits and sources
+=========================================
+Every photo built into flyer-editor.html comes from Unsplash or Pexels under its free licence.
+Both licences allow commercial use and modification (cropping, background removal), and neither requires
+attribution, though crediting photographers is appreciated. They do not allow selling the photos unaltered
+or compiling them into a competing stock service.
+  Unsplash License: https://unsplash.com/license
+  Pexels License:   https://www.pexels.com/license/
+
+Images were resized to at most ~1400–2100 px and recompressed (JPEG/WebP ~80 %).
+Cut-outs were made locally with rembg (BRIA RMBG-2.0 model), with a soft drop shadow added.
+
+Template asset      Used in                              Photographer                          Source
+------------------  -----------------------------------  ------------------------------------  -----------------------------------------------
+burger (cut-out)    Smash Burger                         David Foodphototasty (@phototastyfood) https://unsplash.com/photos/PkUscPNxGX8
+                                                                                               (images.unsplash.com/photo-1586190848861-99aa4a171e90)
+pizza (cut-out)     Pizza Napoletana                     Zoshua Colah (@zoshuacolah)           https://unsplash.com/photos/CZC9fF1M4_c
+pizzaphoto          This Week's Menu, Grand Opening      Zoshua Colah (@zoshuacolah)           https://unsplash.com/photos/CZC9fF1M4_c
+brunch              Weekend Brunch                       Luke Tokaryk (@lukelukeluke)          https://unsplash.com/photos/dzlk_GjTpsM
+pasta               This Week's Menu, Grand Opening      fatemeh habibyar (@atinaw)            https://unsplash.com/photos/fH2Xd94KpxM
+steak               Steak Night, Grand Opening, Weekly   Hanxiao Xu (@hanxiaoyaaaaa)           https://unsplash.com/photos/aLHhsDbj1Iw
+sushi               Omakase Sushi                        Hybrid Storytellers                   https://unsplash.com/photos/W_WYqIFb_KY
+coffee (cut-out)    Morning Coffee, Weekend Brunch       Erica Strolen                         https://www.pexels.com/photo/8700714/
+cocktail            Happy Hour                           Gülsüm Çoban                          https://www.pexels.com/photo/33174185/
+
+Ingredient scatter (cut-outs, added in design pass 3)
+ing_tomato          Smash Burger, Pizza                  Daka                                  https://www.pexels.com/photo/11229105/
+ing_basil           Pizza                                Karolina Grabowska (Kaboompics)       https://www.pexels.com/photo/5202106/
+ing_chili           Smash Burger                         Mockup Graphics (@mockupgraphics)     https://unsplash.com/photos/nZUQgW0FVnc
+                                                                                               (images.unsplash.com/photo-1583119022894-919a68a3d0e3)
+ing_beans           Morning Coffee                       Nick Harsell                          https://unsplash.com/photos/lUOMPM1w-pI
+                                                                                               (images.unsplash.com/photo-1649372639640-6402377f3b28)
+ing_orange,         Happy Hour                           Mahbod Akhzami                        https://unsplash.com/photos/IJCd3rFz03A
+ing_orangehalf                                                                                 (images.unsplash.com/photo-1599360889420-da1afaba9edc)
+
+Design pass 3 notes: brunch and sushi are now higher-resolution versions of the same photos (up to 2100 px);
+steak, cocktail, pasta, brunch and sushi got light colour grading to match each template's palette.
+The second steak photo (Paul Hanaoka) is no longer used and has been removed from the file.
+
+Dance Night / Dansekveld template (added 9 Oct 2026, Café Sør bachata night)
+dancers (cut-out)   Dance Night                          Preillumination SeTh (@7seth)         https://unsplash.com/photos/ok4GGk3KUzU
+                                                                                               (images.unsplash.com/photo-1637345877917-a3bd513e8078)
+cocktailpair        Dance Night (tilted print)           Createasea (@createasea)              https://unsplash.com/photos/2PG0dUvWK9U
+                                                                                               (images.unsplash.com/photo-1742972445326-4d01a724d114)
+Both are free under the Unsplash License. The dancers were cut out locally with rembg (BRIA RMBG-2.0) and given a light warm grade;
+the cocktail photo was cropped to the two glasses and warmed slightly.
+Font added for this template: Yellowtail (Google Fonts, SIL Open Font License 1.1).
+
+Not photos (made procedurally for this project, no third-party rights):
+  tex_paper, tex_kraft, tex_concrete, tex_washi  – seamless paper/kraft/concrete/rice-paper tiles (FFT noise)
+  brush                                          – dry-brush paint stroke (re-tintable in the editor)
+  torn paper edges                               – generated vector paths with a fibrous rim
+
+Fonts (embedded, SIL Open Font License 1.1, from Google Fonts): Anton, Bebas Neue, Archivo Black, Shrikhand,
+Abril Fatface, Monoton, Playfair Display, DM Serif Display, Fraunces, Cormorant Garamond, Pacifico, Yellowtail, Caveat,
+Permanent Marker, Space Grotesk, DM Sans. Japanese characters use the device's system fonts.
+
+The sample names, addresses, phone numbers and prices in the templates are invented placeholders
+(e.g. "Smoke & Bun", "Casa Luna", "22 33 44 55"). Replace them with your own.
